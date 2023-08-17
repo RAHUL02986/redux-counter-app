@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right, rgb(129, 54, 54) , rgb(192, 192, 76));
+}
+.active{
+    background-color: tomato;
+    color:white;
+    border-radius: 10px;
+}
+.heading{
+    font-size: 32px;
+    padding: 20px;
+    color: wheat;
+}
+h1{
+    color: lime;
+}
+.container{
+    width: 550px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    box-shadow: 4px 2px 4px 5px greenyellow;
+}
+button{
+    margin: 20px;
+    padding: 5px 10px;
+}
+  
